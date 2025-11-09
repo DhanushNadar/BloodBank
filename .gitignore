@@ -1,0 +1,40 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+src/main/resources/application.properties
+
+/target/
+/build/
+/out/
+
+# IDEs
+/.idea/
+/.vscode/
+/eclipse/
+/*.iml
+
+# Maven / Gradle Wrapper
+/.mvn/
+mvnw
+mvnw.cmd
+.gradle/
+
+# Logs
+/logs/
+/*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Env / Secrets
+.env
+.env.*
+
+# Temp
+/tmp/
+/*.tmp
