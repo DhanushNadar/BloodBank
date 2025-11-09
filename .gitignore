@@ -18,9 +18,6 @@ src/main/resources/application-prd.properties
 /*.iml
 
 # Maven / Gradle Wrapper
-/.mvn/
-mvnw
-mvnw.cmd
 .gradle/
 
 # Logs
